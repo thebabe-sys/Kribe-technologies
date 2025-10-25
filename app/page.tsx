@@ -16,7 +16,7 @@ export default function Home() {
           </p>
           <div className="flex justify-center gap-4">
             <a href="#services" className="bg-white text-blue-600 px-6 py-3 rounded-md font-medium hover:bg-gray-100 transition">View services</a>
-            <a href="#contact" className="bg-primary text-white px-6 py-3 rounded-md font-medium hover:bg-blue-700 transition">Get in touch</a>
+            <a href="#contact" className="bg-primary text-white px-6 py-3 rounded-md font-medium hover:border-md-white transition">Get in touch</a>
           </div>
         </div>
       </section>
