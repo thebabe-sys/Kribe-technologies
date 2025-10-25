@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Kribe Technologies
+
+Innovative Solutions Transforming Your Digital Presence 
+
+---
+
+## 🚀 Services
+- **Website Development** – Transform your online presence with custom, high-performance websites.  
+- **Mobile App Development** – Build engaging, user-friendly mobile applications.  
+- **Digital Marketing** – Boost your brand visibility through strategic marketing solutions.  
+
+---
+
+## 💡 Tech Stack
+- **Next.js** – React framework for fast, scalable web applications  
+- **Tailwind CSS** – Utility-first CSS framework for sleek, modern designs  
+
+---
+>>>>>>> d3aa00572ed186969249ae505da9681dfb884dda
